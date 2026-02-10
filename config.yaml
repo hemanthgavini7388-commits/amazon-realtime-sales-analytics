@@ -1,0 +1,14 @@
+mysql:
+  host: "localhost"
+  user: "root"
+  password: "Ghem321@#"
+  database: "amazon_project"
+  port: 3306
+
+pipeline:
+  rate_per_sec: 20
+  batch_size: 50
+
+paths:
+  stream_csv: "data/processed/stream_input.csv"
+
