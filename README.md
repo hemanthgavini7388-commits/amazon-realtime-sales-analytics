@@ -1,12 +1,12 @@
 Amazon Real-Time Sales Data Analytics (Python + MySQL + Power BI)
 
 This project is an end-to-end data analytics pipeline where I simulate real-time Amazon sales product signals, ingest them into MySQL, build daily KPI aggregates, and connect Power BI dashboards** using a live connection (Direct Query/ODBC).  
-The goal was to build something that feels like a real business reporting system — not just a one-time analysis.
+The goal was to build something that feels like a real business reporting system - not just a one-time analysis.
 
 
 Project Overview
 
-In many e-commerce companies, the biggest challenge is not just storing data — it’s creating a system that can:
+In many e-commerce companies, the biggest challenge is not just storing data - it’s creating a system that can:
 
 •	continuously ingest new sales product data,
 •	calculate daily KPIs automatically,
